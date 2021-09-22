@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+    margin: 30px;
+    font: sans-serif;
+}
+
+.navigationBar{
+    background-color: rgb(16, 16, 61); color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.posterInfo{
+    background-color: purple; 
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+#poster{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30 px;
+}
+
+
+.moreInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.actors{
+    display: flex;
+    flex-direction: row;
+}
+
+.aside{
+    background-color: gray; 
+    color: black;
+    margin-left: 800px;
+}
