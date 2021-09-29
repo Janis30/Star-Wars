@@ -23,6 +23,7 @@ form{
 .posterInfo{
     background-color: purple; 
     background-image: url(backgroundray.jpeg); 
+    background-size: cover;
     color: white;
     display: flex;
     flex-direction: row;
